@@ -2,7 +2,7 @@
 
 # Staples-Inspired Q&A with Falcon-7B-Instruct
 
-This repository showcases a **question-answering system** built on the [Falcon-7B-Instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) large language model. The system is designed to handle questions about **office setup, printers, and other topics** relevant to small businesses or home offices—echoing the domain interests of Staples or similar office-supply companies.
+This repository showcases a **question-answering system** built on an large language model. The system is designed to handle questions about **office setup, printers, and other topics** relevant to small businesses or home offices—echoing the domain interests of Staples or similar office-supply companies.
 
 ---
 
@@ -19,7 +19,7 @@ This repository showcases a **question-answering system** built on the [Falcon-7
 
 This project demonstrates how to:
 
-- **Load Falcon-7B-Instruct** via Hugging Face Transformers.  
+- **Transformers** .  
 - **Prompt** the model with realistic office-related questions (inspired by Staples’ business domain).  
 - **Generate** clear, concise answers that balance cost, utility, and best practices for small businesses.
 
