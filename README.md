@@ -19,7 +19,7 @@ This repository showcases a **question-answering system** built on an large lang
 
 This project demonstrates how to:
 
-- **Transformers** .  
+- **Transformers**.  
 - **Prompt** the model with realistic office-related questions (inspired by Staples’ business domain).  
 - **Generate** clear, concise answers that balance cost, utility, and best practices for small businesses.
 
