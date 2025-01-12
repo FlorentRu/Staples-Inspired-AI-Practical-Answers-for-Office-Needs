@@ -35,7 +35,7 @@ This project demonstrates how to:
   Shows actual model outputs, including how it weighs factors like ongoing ink expenses, used/refurbished furniture, and more.
 
 - **Easily Adaptable**  
-  You can add more questions in the same style or adjust prompts for other domains.
+  We can add more questions in the same style or adjust prompts for other domains.
 
 ---
 
