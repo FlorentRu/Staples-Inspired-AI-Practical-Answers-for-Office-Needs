@@ -77,5 +77,5 @@ Ask Questions
 Modify the test_queries list to include any questions.
 
 Generate Answers
-The notebook will iterate through your questions, printing the model’s responses.
+The notebook will iterate through the questions, printing the model’s responses.
 
