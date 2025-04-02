@@ -15,7 +15,7 @@ This repository showcases a **question-answering system** built on a large langu
 
 ## Overview
 
-This project demonstrates how to:
+This project demonstrates:
 
 - **Transformers**.  
 - **Prompt** the model with realistic office-related questions (inspired by Staples’ business domain).  
