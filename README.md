@@ -2,8 +2,6 @@
 
 ***(PLEASE READ):*** The Notebook no longer render on GitHub, it seems to be a transient issue that does resolve itself over time.
 
-***Here is an alternative ink to the project:*** https://colab.research.google.com/drive/1mQLBhYBbDYZE3f4v131sulvPK4N8ptdt?usp=sharing
-
 This repository showcases a **question-answering system** built on a large language model. The system is designed to handle questions about **office setup, printers, and other topics** relevant to small businesses or home offices, echoing the domain interests of Staples or similar office-supply companies.
 
 ---
