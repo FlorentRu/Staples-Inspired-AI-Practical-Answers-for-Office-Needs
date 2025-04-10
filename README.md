@@ -1,6 +1,6 @@
 # Staples Inspired AI Practical Answers for Office Needs 
 
-##(PLEASE READ):## The Notebook no longer render on GitHub, it seems to be a transient issue that does resolve itself over time.
+***(PLEASE READ):*** The Notebook no longer render on GitHub, it seems to be a transient issue that does resolve itself over time.
 
 This repository showcases a **question-answering system** built on a large language model. The system is designed to handle questions about **office setup, printers, and other topics** relevant to small businesses or home offices, echoing the domain interests of Staples or similar office-supply companies.
 
