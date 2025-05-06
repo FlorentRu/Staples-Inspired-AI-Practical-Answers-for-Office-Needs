@@ -8,7 +8,7 @@ This repository showcases a **question-answering system** built on a large langu
 
 ---
 
-## Table of Contents
+## Table of Contents:
 
 1. [Overview](#overview)  
 2. [Features](#features)  
